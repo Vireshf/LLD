@@ -1,0 +1,3 @@
+C:/Users/vfattepur/CLionProjects/Vending_Machine/cmake-build-debug/CMakeFiles/Vending_Machine.dir
+C:/Users/vfattepur/CLionProjects/Vending_Machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vfattepur/CLionProjects/Vending_Machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
